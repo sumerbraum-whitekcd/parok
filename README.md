@@ -23,3 +23,12 @@ Download latest release link: https://github.com/sumerbraum-whitekcd/parok/relea
 4.  Open a file via **File → Open**.
 5.  Select a resource in the left panel to view or edit.
 6.  Save changes using **File → Save As** or **Compile** (when working with scripts).
+
+Tags(ignore)
+-ResourceHacker
+-resource-hacker
+-icon-editor
+-pe-editor
+-exe-editor
+-dll-editor
+-resource-extractor
